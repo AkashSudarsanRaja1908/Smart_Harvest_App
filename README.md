@@ -103,13 +103,7 @@ To publish this project to GitHub:
 
 You can deploy this app as a web application using one of the following methods:
 
-### Option 1: Deploy via Lovable
-
-1. Open your project in [Lovable](https://lovable.dev/projects/3a62dde4-6bac-4bc8-aee8-e3b90d89d92f)
-2. Click on "Share" → "Publish"
-3. Follow the instructions to publish your application
-
-### Option 2: Deploy to Vercel, Netlify, or similar platforms
+### Option 1: Deploy to Vercel, Netlify, or similar platforms
 
 1. Connect your GitHub repository to your preferred hosting platform
 2. Configure the build settings:
