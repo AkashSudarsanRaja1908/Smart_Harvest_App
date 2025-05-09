@@ -1,5 +1,13 @@
 # Smart Harvest Tax Harvesting Application Evaluation
 
+# ## Process to Access Application
+ 1. Click on sign up if you were a new user and sign up in the application.
+ 2. Then you will get a verification mail to the registered mail id.
+ 3. Then click the verify mail link sent througn the registerd mail id.
+ 4. The page reloads as it verifies succesfully (It shows and error on the verify page ignore this site cannot be reached error and close the page and login as usual), It will login successfully.
+ 5. Then login with the registered Mail and password.
+ 6. Then you can access the Application.
+
 ## Project Info
 
 **URL**: 
